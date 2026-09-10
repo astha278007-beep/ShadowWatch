@@ -96,6 +96,20 @@ It includes normal and simulated tampered CCTV footage for demonstrating the det
 
 > **Note:** Real-time live CCTV monitoring and automatic backup-camera activation are intended future extensions of the system. The current version is a demonstration implementation using pre-recorded video.
 
+## 📸 Screenshots
+
+### ShadowWatch Dashboard
+![ShadowWatch Dashboard](screenshots/Screenshot%202026-09-10%20220145.png)
+
+### Incident History
+![Incident History](screenshots/Screenshot%202026-09-10%20220323.png)
+
+### CCTV Analysis
+![CCTV Analysis](screenshots/Screenshot%202026-09-10%20220408.png)
+
+### Evidence Integrity
+![Evidence Integrity](screenshots/Screenshot%202026-09-10%20220444.png)
+
 ## 🚀 Future Scope
 
 - Real-time CCTV/IP camera integration
